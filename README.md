@@ -2,7 +2,7 @@
 I am a software developer who enjoys solving problems and strives for optimal solutions. I believe in writing high-quality code and approach every project with attention to detail. My coding style focuses on efficiency and effectiveness, aiming to deliver robust and maintainable solutions.
 
 
-## Technologies and tools
+## Languages ​​and tools
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
